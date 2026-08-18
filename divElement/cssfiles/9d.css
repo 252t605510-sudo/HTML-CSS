@@ -1,0 +1,27 @@
+
+.black-box{
+    border:none;
+    background-color:rgb(33,33,33);
+    width:270px;
+    padding-left:12px;
+    padding-right:12px;
+    padding-top:3px;
+    padding-bottom:12px;
+    height:80px;
+
+  }
+  .app{
+    color:white;
+    font-weight:bold;
+    font-size:18px;
+    font-family:Arial;
+    margin-bottom:12px;
+  }
+  .content{
+    color:rgb(160,160,160);
+    font-size:12px;
+    font-family:Arial;
+    
+
+
+  }
