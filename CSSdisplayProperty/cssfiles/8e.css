@@ -1,0 +1,46 @@
+
+p{
+        font-size:30px;
+        font-family: Arial;
+        font-weight:bold;
+        margin-bottom:20px;
+
+      }
+      input{
+        border-width:1px;
+      font-size:16px;
+      border-color:rgb(200,200,200);
+      padding-bottom:12px ;
+      padding-top:12px;
+      padding-left:12px;
+      padding-right:12px;
+      color:rgb(200,200,200);
+      display:block;
+      border-style:solid;
+      margin-bottom:8px;
+      width:250px;
+      }
+      .request-button{
+        background-color:black;
+        color:white;
+        padding-left:12px;
+        padding-right:12px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        cursor:pointer;
+        margin-right:10px;
+        display:inline-block;
+        margin-top:20px;
+        border-style:solid;
+        font-size:16px;
+
+      }
+      .time{
+        border:none;
+        background-color:rgb(240,240,240);
+        font-size:16px;
+        padding-left:16px;
+        padding-right:16px;
+        padding-top:12px;
+        padding-bottom:12px;
+      }

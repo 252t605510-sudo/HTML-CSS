@@ -1,0 +1,41 @@
+
+input{
+      border-style:solid;
+      border-color:rgb(100,100,100);
+      color: rgb(100,100,100);
+      padding-top:12px;
+      padding-bottom:12px;
+      padding-right:16px;
+      padding-left:16px;
+      display:inline-block;
+      border-color:rgb(200,200,200);
+      width:100px;
+      border-width:1px;
+      border-radius:10px;
+    }
+    .email{
+      
+      
+      border-style:solid;
+      display:block;
+      margin-top:10px;
+      border-radius:5px;
+      width:230px;
+
+    }
+    .sign-button{
+      background-color:rgb(47,127,231);
+      color:white;
+      font-weight:bold;
+      margin-top:10px;
+      width:260px;
+      font-size:16px;
+      border:none;
+      border-radius:10px;
+      cursor:pointer;
+      padding-top:12px;
+      padding-bottom:12px;
+      
+      
+
+    }
